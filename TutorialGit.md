@@ -129,3 +129,6 @@ git branch -b имяновойветки
 git branch -D имяветки
 
 
+Переименуйте ветку.
+
+git branch -m current-branch-name new-branch-name
